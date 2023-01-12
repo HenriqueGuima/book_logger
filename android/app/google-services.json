@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "357485395058",
+    "project_id": "book-logger-1ac67",
+    "storage_bucket": "book-logger-1ac67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357485395058:android:67194fd62ada2161de16eb",
+        "android_client_info": {
+          "package_name": "com.example.book_logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357485395058-osfdonr5s6qo7l93if9v8fg3rt7vv5pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_logger",
+            "certificate_hash": "319d3247c371398631bde4396d55e6fdc3b915d6"
+          }
+        },
+        {
+          "client_id": "357485395058-b0j1bdc6seb9u8kne20010dv2pqsi8l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq2D9nc4DBxjOuDadk8o0k_7-NgtImRuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357485395058-b0j1bdc6seb9u8kne20010dv2pqsi8l3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357485395058-9kpsdmd19g1d1pd9adu82ljacml7b50q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookLogger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
